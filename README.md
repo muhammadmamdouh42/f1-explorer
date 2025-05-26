@@ -8,7 +8,7 @@ A lightweight **React + TypeScript + Vite** SPA for exploring Formula 1 seasons,
 
 | Action           | Command                                                                  |
 | ---------------- | ------------------------------------------------------------------------ |
-| **Clone**        | `git clone https://github.com/<your-fork>/f1-explorer && cd f1-explorer` |
+| **Clone**        | `https://github.com/muhammadmamdouh42/f1-explorer.git && cd f1-explorer` |
 | **Install deps** | `npm i`                                                                  |
 | **Dev server**   | `npm run dev` → <http://localhost:5173>                                  |
 | **Unit tests**   | `npm run test` → Vitest watch mode                                       |
