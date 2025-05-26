@@ -6,13 +6,13 @@ A lightweight **React + TypeScript + Vite** SPA for exploring Formula 1 seasons,
 
 ## 🚀 Quick-start
 
-| Action           | Command                                                                  |
-| ---------------- | ------------------------------------------------------------------------ |
-| **Clone**        | `https://github.com/muhammadmamdouh42/f1-explorer.git && cd f1-explorer` |
-| **Install deps** | `npm i`                                                                  |
-| **Dev server**   | `npm run dev` → <http://localhost:5173>                                  |
-| **Unit tests**   | `npm run test` → Vitest watch mode                                       |
-| **E2E tests**    | `npm run cypress` (opens Cypress UI)                                     |
+| Action           | Command                                                                            |
+| ---------------- | ---------------------------------------------------------------------------------- |
+| **Clone**        | `git clone https://github.com/muhammadmamdouh42/f1-explorer.git && cd f1-explorer` |
+| **Install deps** | `npm i`                                                                            |
+| **Dev server**   | `npm run dev` → <http://localhost:5173>                                            |
+| **Unit tests**   | `npm run test` → Vitest watch mode                                                 |
+| **E2E tests**    | `npm run cypress` (opens Cypress UI)                                               |
 
 ---
 
